@@ -1,0 +1,23 @@
+[
+    {
+        "userid" : "190456001",
+        "phonenumber" : "7396676216",
+        "username" : "Mouni",
+        "password" : "Nikhil@123",
+        "bio" : ""
+    },
+    {
+        "userid" : "190456002",
+        "phonenumber" : "9009045678",
+        "username" : "Harshi",
+        "password" : "Harsha@123",
+        "bio" : ""
+    },
+    {
+        "userid" : "190456003",
+        "phonenumber" : "7896598765",
+        "username" : "Harshi",
+        "password" : "Harsha@123",
+        "bio" : ""
+    }
+]

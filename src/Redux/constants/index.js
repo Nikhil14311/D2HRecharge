@@ -1,0 +1,5 @@
+export const COUNTER_CHANGE = 'COUNTER_CHANGE'
+export const USER_DATA = 'USER_DATA'
+export const PAYMENTS = 'PAYMENTS'
+export const CONFIRM = 'CONFIRM'
+export const MOBILE_RECHARGE = 'MOBILE_RECHARGE'
